@@ -7,7 +7,7 @@ python .\manage.py makemigrations
 python .\manage.py migrate
 python .\manage.py runserver
 
-#Endpoints
+# Endpoints
 /api/tickets/
 Http Method: GET
 Functionality: Display all tickets that exist on the database.
