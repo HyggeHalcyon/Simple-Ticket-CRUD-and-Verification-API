@@ -3,9 +3,9 @@
 Python - Backend, Django REST framework
 
 # to run API server
-python .\manage.py makemigrations \n
-python .\manage.py migrate \n 
-python .\manage.py runserver \n
+python .\manage.py makemigrations   
+python .\manage.py migrate    
+python .\manage.py runserver     
 
 # Endpoints
 /api/tickets/  
