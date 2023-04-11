@@ -2,7 +2,7 @@
  
 Python - Backend, Django REST framework
 
-# to run API server
+# to run API server locally
 python .\manage.py makemigrations   
 python .\manage.py migrate    
 python .\manage.py runserver     
